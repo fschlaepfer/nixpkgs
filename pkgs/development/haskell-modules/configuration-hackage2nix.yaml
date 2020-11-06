@@ -4548,6 +4548,7 @@ broken-packages:
   - discord-gateway
   - discord-haskell
   - discord-hs
+  - discord-register
   - discord-rest
   - discord-types
   - discordian-calendar
@@ -5440,7 +5441,6 @@ broken-packages:
   - git-sanity
   - git-vogue
   - gitdo
-  - github
   - github-backup
   - github-data
   - github-release
